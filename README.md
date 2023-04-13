@@ -2,7 +2,7 @@
 Data and files associated with the line list calculations of 12CH+ for the ExoMol Project.
 ---
 1) ### 12C1H+_states.txt and 12C1H+_transitions.txt:
-The respective States and Transitions file that comprise the line list.
+The respective States and Transitions file, in ExoMol format, that comprise the line list.
 
 2) ### Modified_LEVEL16.f:
 The LEVEL16 code that was modified here due to errors with the initial form of the code. The LEVEL_input_CH+.txt file runs correctly with this modified version but not with
