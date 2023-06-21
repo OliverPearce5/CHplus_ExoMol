@@ -18,7 +18,7 @@ The MARVEL_Transitions file documents all observed literature transitions for th
 file lists the empirical energy levels determined via the MARVEL algorithm. Note no MARVEL analysis for 13CH+.
 
 5) ### Partition_Function.pf:
-The temperature-dependent partition function for 12CH+ up to 10,000K. Note no partition function for 13CH+.
+The temperature-dependent partition function for 12CH+ up to 10,000K.
 
 6) ### Lambda_Doubling_Energies.txt:
 The manually-calculated Lambda-doubling corrections for each v,J level within the A1Pi state (applied to both 12C1H+ and 13C1H+). 
